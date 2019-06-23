@@ -1,0 +1,49 @@
+
+img{
+    width:200px;
+    height:200px;
+    border-radius:30px;
+    margin:20px;
+}
+.mol{
+    display:flex;
+    justify-content:center;
+}
+html{
+    padding:20px;
+}
+.heading{
+    display:flex;
+    justify-content:space-around;  
+    
+
+}
+.item{
+    display:flex;
+    justify-content:space-around;
+  
+}
+input{
+    margin:10px;
+    padding:5px;
+    border-radius:20px;
+}
+
+.buttonDiv{
+    display:flex;
+    justify-content:space-around;
+    padding:20px;
+
+
+}
+button{
+    border-radius:20px;
+    padding :10px;
+    background-color:lightblue;
+}
+body{
+   background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9b84BQg3VczroKvhu1X7MuEfKlgLvy1ttoAX9dFkdG4lKlwnixg");
+}
+
+
+
